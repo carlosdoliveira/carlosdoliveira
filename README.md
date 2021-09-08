@@ -28,3 +28,6 @@ Meu nome é Carlos Oliveira, sou formado em Gestão de TI pela FIAP! Tenho 27 an
 ![](https://img.shields.io/badge/Clouds-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/Languages-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Languages-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=5391FE)
+
+## 👩🏻‍💻 Minhas últimas atividades 
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=carlosdoliveira&theme=onedark&compact=true)](https://github.com/carlosdoliveira/carlosdoliveira)
