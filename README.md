@@ -13,6 +13,12 @@ Meu nome é Carlos Oliveira, sou formado em Gestão de TI pela FIAP! Tenho 27 an
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlosdoliveira&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdoliveira&count_private=true&show_icons=true&theme=onedark&layout=compact&hide=less,hack&locale=pt-br" />
 </div>
+
+## 🏆 Certificações
+
+<div style="display: inline_block">
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
   
 ## 📌 Repositórios fixados
 ![Repositório](https://github-readme-stats.vercel.app/api/pin/?username=carlosdoliveira&repo=terraform-landing-zone&theme=onedark)
