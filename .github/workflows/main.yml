@@ -1,9 +1,10 @@
 name: Update badges
 
 on:
-  schedule:
+  push
+#  schedule:
     # Runs at 2am UTC
-    - cron: "* * * * *"
+#    - cron: "* * * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
