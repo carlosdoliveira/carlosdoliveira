@@ -13,3 +13,4 @@ jobs:
         uses: pemtajo/badge-readme@master
         with:
           CREDLY_USER: carlos.oliveira # optional, but default will use the same from github
+          CREDLY_SORT: RECENT
