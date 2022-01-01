@@ -19,6 +19,7 @@ Meu nome é Carlos Oliveira, sou formado em Gestão de TI pela FIAP! Tenho 27 an
 <div style="display: inline_block">
 <!--START_SECTION:badges-->
 
+[![HashiCorp Certified: Terraform Associate](https://images.credly.com/size/110x110/images/5b075140-d286-4c8a-9be9-2b87f9e10839/Terraform-Associate-Badge.png)](http://www.credly.com/badges/160c71eb-1b9d-427f-a39b-a51ab884691c "HashiCorp Certified: Terraform Associate")
 [![Microsoft Certified: Azure Network Engineer Associate](https://images.credly.com/size/110x110/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png)](http://www.credly.com/badges/e01aa6db-5ba7-46bc-9f93-00fb7a559553 "Microsoft Certified: Azure Network Engineer Associate")
 [![Microsoft Certified Trainer 2021-2022](https://images.credly.com/size/110x110/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png)](http://www.credly.com/badges/04d961b7-3f01-4e01-afc9-8912eab72af9 "Microsoft Certified Trainer 2021-2022")
 [![AZ-304 Microsoft Azure Architect Design](https://images.credly.com/size/110x110/images/bfdff01e-a9dd-41fc-9301-8a90585c19bb/EXAM-Expert-AZ-304-600x600.png)](http://www.credly.com/badges/22f51e42-cf96-4022-a985-5ba1b2a9e5ed "AZ-304 Microsoft Azure Architect Design")
