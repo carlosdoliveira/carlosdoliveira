@@ -18,6 +18,7 @@ Meu nome é Carlos Oliveira, sou formado em Gestão de TI pela FIAP! Tenho 27 an
 
 <div style="display: inline_block">
 <!--START_SECTION:badges-->
+
 [![HashiCorp Certified: Terraform Associate](https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/160c71eb-1b9d-427f-a39b-a51ab884691c "HashiCorp Certified: Terraform Associate")
 [![Microsoft Certified: Azure Network Engineer Associate](https://images.credly.com/size/110x110/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png)](http://www.credly.com/badges/69139e66-bdc0-4d03-a609-265d6f4c99d0 "Microsoft Certified: Azure Network Engineer Associate")
 [![Microsoft Certified Trainer 2021-2022](https://images.credly.com/size/110x110/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png)](http://www.credly.com/badges/81fc2bac-e423-4d1c-b60d-043aacae6df8 "Microsoft Certified Trainer 2021-2022")
