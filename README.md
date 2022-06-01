@@ -18,7 +18,7 @@ Meu nome é Carlos Oliveira, sou formado em Gestão de TI pela FIAP! Tenho 27 an
 
 <div style="display: inline_block">
 <!--START_SECTION:badges-->
-
+[![Microsoft Certified Trainer 2022-2023](https://images.credly.com/size/110x110/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png)](http://www.credly.com/badges/2f9e4bde-bc4e-41db-8333-0dca05d44cf2 "Microsoft Certified Trainer 2022-2023")
 [![HashiCorp Certified: Terraform Associate](https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/160c71eb-1b9d-427f-a39b-a51ab884691c "HashiCorp Certified: Terraform Associate")
 [![Microsoft Certified: Azure Network Engineer Associate](https://images.credly.com/size/110x110/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png)](http://www.credly.com/badges/69139e66-bdc0-4d03-a609-265d6f4c99d0 "Microsoft Certified: Azure Network Engineer Associate")
 [![Microsoft Certified Trainer 2021-2022](https://images.credly.com/size/110x110/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png)](http://www.credly.com/badges/81fc2bac-e423-4d1c-b60d-043aacae6df8 "Microsoft Certified Trainer 2021-2022")
@@ -28,7 +28,7 @@ Meu nome é Carlos Oliveira, sou formado em Gestão de TI pela FIAP! Tenho 27 an
 [![Exam 534: Architecting Microsoft Azure Solutions](https://images.credly.com/size/110x110/images/8c6dbe49-15cf-4982-9406-ec65b75a4576/Microsoft_Exam534.png)](http://www.credly.com/badges/31b7e515-435d-47c2-bda1-b2181ef3e15d "Exam 534: Architecting Microsoft Azure Solutions")
 [![MCSA: Cloud Platform - Certified 2016](https://images.credly.com/size/110x110/images/a5873bc2-5dc0-4f52-9337-cbf879219d82/MCSA_Cloud_Platform-01.png)](http://www.credly.com/badges/51da6ca4-b45d-4d1a-bdd8-8ca6eb1d5b08 "MCSA: Cloud Platform - Certified 2016")
 [![AZ-101 Microsoft Azure Integration and Security](https://images.credly.com/size/110x110/images/51257c76-bf3c-4a65-85f7-cd25c7897396/exam-az101.png)](http://www.credly.com/badges/8feafd1b-018a-4cc3-a721-bbd6b77494f7 "AZ-101 Microsoft Azure Integration and Security")
-[![Microsoft 365 Certified: Fundamentals](https://images.credly.com/size/110x110/images/5c96fc59-1174-4dd0-a5c1-56772e38d8c7/microsoft365-fundamentals-600x600.png)](http://www.credly.com/badges/70fcc083-fad1-439d-82b4-5850d90bd18c "Microsoft 365 Certified: Fundamentals")
+[![Microsoft 365 Certified: Fundamentals](https://images.credly.com/size/110x110/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png)](http://www.credly.com/badges/70fcc083-fad1-439d-82b4-5850d90bd18c "Microsoft 365 Certified: Fundamentals")
 [![MS-100: Microsoft 365 Identity and Services](https://images.credly.com/size/110x110/images/0c7981d8-e5c6-44c9-8bd6-563664c609cd/exam-ms100-600x600.png)](http://www.credly.com/badges/af90a8ac-cfdc-4f04-a6cf-653c30fadcba "MS-100: Microsoft 365 Identity and Services")
 [![MS-101: Microsoft 365 Mobility and Security](https://images.credly.com/size/110x110/images/f5aaf5dc-9ef4-4ecd-8886-a68c83e32fc5/exam-ms100_1-600x600.png)](http://www.credly.com/badges/b4337091-2579-49d1-a9d2-c7864a2b1a5d "MS-101: Microsoft 365 Mobility and Security")
 [![Exam 533: Implementing Microsoft Azure Infrastructure Solutions](https://images.credly.com/size/110x110/images/903f1857-34da-40a0-9316-d1e2b48cd34d/Microsoft_Exam533.png)](http://www.credly.com/badges/b5a95587-ef02-4a2c-88c3-eae02a046f01 "Exam 533: Implementing Microsoft Azure Infrastructure Solutions")
