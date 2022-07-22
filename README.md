@@ -1,23 +1,22 @@
 # Olá! Meu nome é Carlos Oliveira
-[![Visits Badge](https://badges.pufler.dev/visits/carlosdoliveira/carlosdoliveira)](https://cloudsquad.com.br)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/carlosdoliveira/)
 
-
-## 🤓 Sobre mim
+# 🤓 Sobre mim
 
 Meu nome é Carlos Oliveira, sou formado em Gestão de TI pela FIAP! Tenho 27 anos e desde o começo da minha carreira trabalhei com tecnologias Microsoft. Comecei com o Office 365 (hoje, Microsoft 365) e migrei para trabalhar com Infraestrutura em Cloud, com o Microsoft Azure e nestes últimos 6 anos tenho atuado em projetos de migração para a nuvem, além de adoção.
 
-## 📈 Minhas atividades no Github
+# 📈 Minhas atividades no Github
 <div>
   <a href="https://github.com/carlosdoliveira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlosdoliveira&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdoliveira&count_private=true&show_icons=true&theme=onedark&layout=compact&hide=less,hack&locale=pt-br" />
 </div>
 
-## 🏆 Certificações
+# 🏆 Certificações
 
 <div style="display: inline_block">
 <!--START_SECTION:badges-->
+
 [![Microsoft Certified: Cybersecurity Architect Expert](https://images.credly.com/size/110x110/images/0ba22331-acf9-4e8a-8ce3-b4cc3d376040/image.png)](http://www.credly.com/badges/00e58ce0-6695-4348-9fc0-ab6fc1ee643c "Microsoft Certified: Cybersecurity Architect Expert")
 [![Microsoft Certified: Azure Support Engineer for Connectivity Specialty](https://images.credly.com/size/110x110/images/963586bb-5903-400b-9b0a-33ebcf7f4313/image.png)](http://www.credly.com/badges/55a82ea7-74d5-4f6d-a4b2-ecea6ee7edd3 "Microsoft Certified: Azure Support Engineer for Connectivity Specialty")
 [![Microsoft Certified Trainer 2022-2023](https://images.credly.com/size/110x110/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png)](http://www.credly.com/badges/05c9d829-d2b1-418c-96dd-da35cedbea82 "Microsoft Certified Trainer 2022-2023")
@@ -48,9 +47,10 @@ Meu nome é Carlos Oliveira, sou formado em Gestão de TI pela FIAP! Tenho 27 an
 [![Microsoft Certified: Azure Solutions Architect Expert (Legacy)](https://images.credly.com/size/110x110/images/649069f9-27f1-4d2b-92bc-c674bc67bd02/azure-solutions-architect-expert-600x600.png)](http://www.credly.com/badges/30463db2-7637-4cf0-8fa1-0d8b39f5f288 "Microsoft Certified: Azure Solutions Architect Expert (Legacy)")
 [![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/110x110/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](http://www.credly.com/badges/6182b90e-3f42-4412-bdcb-d3b81ebab686 "Microsoft Certified: Azure Solutions Architect Expert")
 [![AZ-303: Microsoft Azure Architect Technologies](https://images.credly.com/size/110x110/images/285339cc-675a-4b1a-bdd9-283868af2fc8/EXAM-Expert-AZ-303-600x600.png)](http://www.credly.com/badges/b75366cf-0378-491d-9d80-413800b4d859 "AZ-303: Microsoft Azure Architect Technologies")
+
 <!--END_SECTION:badges-->
-  
-## 📌 Repositórios fixados
+ 
+# 📌 Repositórios fixados
 ![Repositório](https://github-readme-stats.vercel.app/api/pin/?username=carlosdoliveira&repo=terraform-landing-zone&theme=onedark)
 
 ## Skills
@@ -65,5 +65,5 @@ Meu nome é Carlos Oliveira, sou formado em Gestão de TI pela FIAP! Tenho 27 an
 ![](https://img.shields.io/badge/Languages-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Languages-Powershell-informational?style=flat&logo=powershell&logoColor=white&color=5391FE)
 
-## 👩🏻‍💻 Minhas últimas atividades 
+# 👩🏻‍💻 Minhas últimas atividades 
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=carlosdoliveira&theme=onedark&compact=true)](https://github.com/carlosdoliveira/carlosdoliveira)
