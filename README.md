@@ -14,10 +14,11 @@ Meu nome é Carlos Oliveira, sou formado em Gestão de TI pela FIAP! Tenho 27 an
 
 # 🏆 Certificações
 <!--START_SECTION:badges-->
+[![SC-100: Microsoft Cybersecurity Architect](https://images.credly.com/size/96x96/images/c34a6df4-c7bd-461b-ac12-deab18ab6804/image.png)](http://www.credly.com/badges/0a781e1d-ab93-4f12-83f7-68f9a533d2ef "SC-100: Microsoft Cybersecurity Architect")
 [![Microsoft Certified: Cybersecurity Architect Expert](https://images.credly.com/size/96x96/images/0ba22331-acf9-4e8a-8ce3-b4cc3d376040/image.png)](http://www.credly.com/badges/00e58ce0-6695-4348-9fc0-ab6fc1ee643c "Microsoft Certified: Cybersecurity Architect Expert")
 [![Microsoft Certified: Azure Support Engineer for Connectivity Specialty](https://images.credly.com/size/96x96/images/963586bb-5903-400b-9b0a-33ebcf7f4313/image.png)](http://www.credly.com/badges/55a82ea7-74d5-4f6d-a4b2-ecea6ee7edd3 "Microsoft Certified: Azure Support Engineer for Connectivity Specialty")
 [![Microsoft Certified Trainer 2022-2023](https://images.credly.com/size/96x96/images/bb4156e4-c2e1-4399-b03c-af6feb7a6cc4/image.png)](http://www.credly.com/badges/05c9d829-d2b1-418c-96dd-da35cedbea82 "Microsoft Certified Trainer 2022-2023")
-[![HashiCorp Certified: Terraform Associate](https://images.credly.com/size/96x96/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/160c71eb-1b9d-427f-a39b-a51ab884691c "HashiCorp Certified: Terraform Associate")
+[![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/96x96/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/160c71eb-1b9d-427f-a39b-a51ab884691c "HashiCorp Certified: Terraform Associate (002)")
 [![Microsoft Certified: Azure Network Engineer Associate](https://images.credly.com/size/96x96/images/c3a2e51d-7984-48cc-a4cb-88d4e8487037/azure-network-engineer-associate-600x600.png)](http://www.credly.com/badges/63f0ba79-be47-4a3d-89e9-7d5482132691 "Microsoft Certified: Azure Network Engineer Associate")
 [![Microsoft Certified Trainer 2021-2022](https://images.credly.com/size/96x96/images/a6ea4416-4f34-4a85-bc24-eb3fe32fd241/MCT-Microsoft_Certified_Trainer-600x600.png)](http://www.credly.com/badges/c7ee65e5-1886-4ccf-8c09-2870d2f76405 "Microsoft Certified Trainer 2021-2022")
 [![AZ-304: Microsoft Azure Architect Design](https://images.credly.com/size/96x96/images/bfdff01e-a9dd-41fc-9301-8a90585c19bb/EXAM-Expert-AZ-304-600x600.png)](http://www.credly.com/badges/59eb7f74-b825-4a55-8a12-2c39f642ad6a "AZ-304: Microsoft Azure Architect Design")
