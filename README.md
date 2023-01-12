@@ -48,7 +48,7 @@ Meu nome é Carlos Oliveira, sou formado em Gestão de TI pela FIAP! Tenho 27 an
 <!--END_SECTION:badges-->
  
 # 📌 Repositórios fixados
-![Repositório](https://github-readme-stats.vercel.app/api/pin/?username=carlosdoliveira&repo=terraform-landing-zone&theme=onedark)
+![Repositório](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=carlosdoliveira&repo=terraform-landing-zone&theme=onedark)
 
 ## Skills
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
