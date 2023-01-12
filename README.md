@@ -8,8 +8,8 @@ Meu nome é Carlos Oliveira, sou formado em Gestão de TI pela FIAP! Tenho 27 an
 # 📈 Minhas atividades no Github
 <div>
   <a href="https://github.com/carlosdoliveira">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlosdoliveira&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdoliveira&count_private=true&show_icons=true&theme=onedark&layout=compact&hide=less,hack&locale=pt-br" />
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=carlosdoliveira&count_private=true&show_icons=true&theme=onedark&include_all_commits=true&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=carlosdoliveira&count_private=true&show_icons=true&theme=onedark&layout=compact&hide=less,hack&locale=pt-br" />
 </div>
 
 # 🏆 Certificações
