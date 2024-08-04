@@ -3,7 +3,7 @@
 
 # 🤓 Sobre mim
 
-Meu nome é Carlos Oliveira, sou formado em Gestão de TI pela FIAP! Tenho 27 anos e desde o começo da minha carreira trabalhei com tecnologias Microsoft. Comecei com o Office 365 (hoje, Microsoft 365) e migrei para trabalhar com Infraestrutura em Cloud, com o Microsoft Azure e nestes últimos 6 anos tenho atuado em projetos de migração para a nuvem, além de adoção.
+Meu nome é Carlos Oliveira, sou formado em Gestão de TI pela FIAP! Tenho 30 anos e desde o começo da minha carreira trabalhei com tecnologias Microsoft. Comecei com o Office 365 (hoje, Microsoft 365) e migrei para trabalhar com Infraestrutura em Cloud, com o Microsoft Azure e nestes últimos anos tenho atuado em projetos de migração para a nuvem, além de adoção. Agora estou em uma nova fase de carreira onde estou trabalhando como Líder de Arquitetura de Soluções Cloud.
 
 # 📈 Minhas atividades no Github
 <div>
